@@ -2449,9 +2449,13 @@ p{
 	}
 	
 	.line {
-		width: 72px;
+		width: 172px;
 	}
 
+	.siog {
+		margin-top: 30px;
+	}
+	
 	.header-slog {
 		font-size: 10px;
 	}
