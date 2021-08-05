@@ -2253,6 +2253,21 @@ p{
 		margin-top: 8px;
 	}
 	
+	/*---------------*/
+
+	.comfortable-hall {
+		width: 151px;
+	}
+
+	.studio-description,
+	.sessions-individual {
+		font-size: 8px;
+	}
+
+	.individual-sessions {
+		width: 245px;
+	}
+	
 	/*----------------*/
 
 	.s {
