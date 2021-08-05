@@ -2445,7 +2445,11 @@ p{
 	}
 
 	h2 {
-		font-size: 16px;
+		font-size: 14px;
+	}
+	
+	.line {
+		width: 172px;
 	}
 
 	.header-slog {
