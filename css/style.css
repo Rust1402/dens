@@ -2449,12 +2449,41 @@ p{
 	}
 
 	.header-slog {
-		font-size: 14px;
+		font-size: 10px;
 	}
 
 	.scial-logo {
 		width: 20px;
 		height: 20px;
+	}
+
+	/*---------------*/
+
+	.trainer-foto {
+		width: 55px;
+	}
+		
+	.portfolio-left,
+	.portfolio-right,
+	.victori-top,
+	.victori-bottom,
+	.job {
+		font-size: 6px;
+	}
+
+	/*---------------*/
+
+	.comfortable-hall {
+		width: 151px;
+	}
+
+	.studio-description,
+	.sessions-individual {
+		font-size: 8px;
+	}
+
+	.individual-sessions {
+		width: 245px;
 	}
 
 	/*---------------*/
@@ -2465,6 +2494,18 @@ p{
 
 	.b-d1 {
 		width: 50px;
+	}
+
+	/*---------------*/
+
+	.prices-top,
+	.line-pr,
+	.p-b {
+		margin-top: 5px;
+	}
+
+	.line-prices {
+		margin: 10px 0px 10px 0px;
 	}
 
 }
