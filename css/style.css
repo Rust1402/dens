@@ -2230,6 +2230,24 @@ p{
 		margin-top: 10px;
 	}
 
+	/*-----------------*/
+	
+	.trainer-foto {
+		width: 75px;
+	}
+
+	.foto-trainer {
+		width: 150px;
+	}
+
+	.portfolio-left,
+	.portfolio-right,
+	.victori-top,
+	.victori-bottom,
+	.job {
+		font-size: 8px;
+	}
+	
 	/*----------------*/
 
 	.s {
