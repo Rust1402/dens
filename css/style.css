@@ -2436,16 +2436,16 @@ p{
 
 @media (max-width: 375px) {
 	.name {
-		width: 42px;
+		width: 1722px;
 		height: auto;
 	}
 
 	.tagline {
-		margin-top: 3px;
+		margin-top: 5px;
 	}
 
 	h2 {
-		font-size: 8px;
+		font-size: 14px;
 	}
 	
 	.line {
@@ -2453,7 +2453,7 @@ p{
 	}
 
 	.header-slog {
-		font-size: 4px;
+		font-size: 10px;
 	}
 
 	.scial-logo {
