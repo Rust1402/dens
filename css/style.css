@@ -2437,7 +2437,7 @@ p{
 @media (max-width: 375px) {
 	.name {
 		width: 172px;
-		height: 128px;
+		height: auto;
 	}
 
 	.tagline {
