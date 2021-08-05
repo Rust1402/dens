@@ -2205,13 +2205,13 @@ p{
 @media (max-width: 470px) {
 
 	.name {
-		width: 259px;
-		height: 190px;
-		margin-top: 20px;
+		width: 172px;
+		height: auto;
+		margin-top: 10px;
 	}
 
 	.tagline {
-		margin-top: 50px;
+		margin-top: 5px;
 	}
 
 	.bottom{
@@ -2219,15 +2219,15 @@ p{
 	}
 
 	.slog {
-		margin-top: 50px;
+		margin-top: 30px;
 	}
 
 	.header-slog {
-		font-size: 16px;
+		font-size: 10px;
 	}
 
 	.header-slog {
-		margin-top: 15px;
+		margin-top: 10px;
 	}
 
 	/*----------------*/
