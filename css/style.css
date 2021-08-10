@@ -2299,6 +2299,12 @@ p{
 	}
 
 	/*------------*/
+	
+	.training {
+    		font-size: 14px;
+	}
+	
+	/*------------*/
 		.foto-dens {
 			width: 150px;
 			height: 79px;
