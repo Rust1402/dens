@@ -2298,67 +2298,63 @@ p{
 		margin-right: 10px;
 	}
 
+	
 	/*------------*/
 	
-	.training {
-    		font-size: 12px;
+	.foto-dens {
+		width: 150px;
+		height: 79px;
 	}
-	
-	/*------------*/
-		.foto-dens {
-			width: 150px;
-			height: 79px;
-		}
 
-		.descr {
-			width: 150px;
-			height: 79px;
-			padding-top: 12px;
-			text-align: center;
-			font-size: 8px;
-			line-height: 10px;
-			font-weight: 600;
-		}
+	.descr {
+		width: 150px;
+		height: 79px;
+		padding-top: 12px;
+		text-align: center;
+		font-size: 8px;
+		line-height: 10px;
+		font-weight: 600;
+	}
 
-		.club,
-		.break,
-		.crump,
-		.rnb,
-		.straight,
-		.ballroom,
-		.house,
-		.step {
-			margin-right: 10px;
-		}
+	.club,
+	.break,
+	.crump,
+	.rnb,
+	.straight,
+	.ballroom,
+	.house,
+	.step {
+		margin-right: 10px;
+	}
 
-		.name-dens {
-			font-size: 10px;
-			margin-bottom: 10px;
-		}
+	.name-dens {
+		font-size: 10px;
+		margin-bottom: 10px;
+	}
 
-		/*---------------*/
+   /*---------------*/
 
-		.town,
-		.phone,
-		.mail {
+	.town,
+	.phone,
+	.mail {
 
-			font-size: 10px;
-		}
+		font-size: 10px;
+	}
 
-		.left-women {
-			width: 92px;
-			height: auto;
-		}
+	.left-women {
+		width: 92px;
+		height: auto;
+	}
 
-		.centr-women {
-			width: 107px;
-			height: auto;
-		}
+	.centr-women {
+		width: 107px;
+		height: auto;
+	}
 
-		.right-women {
-			width: 153px;
-			height: auto;
-		}
+	.right-women {
+		width: 153px;
+		height: auto;
+	}
 
 }
 
