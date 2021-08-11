@@ -57,7 +57,7 @@ body {
 .wrapper._free .page__pagination {
 	transition: all 0.3s ease 0s;
 	transform: translate(30px, -50%);
-	opacity: 1;
+	opacity: 0;
 }
 /*----------------*/
 .header {
