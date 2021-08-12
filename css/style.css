@@ -1524,7 +1524,39 @@ p{
 
 }
 
-/*---------------*/
+	/*---------------*/
+
+@media (max-width: 850px) {
+	.text {
+		margin-top: 50px;
+	}
+
+	.name {
+		width: 172px;
+		height: auto;
+	}
+
+	.tagline {
+		width: 200px;
+		height: auto;
+	}
+
+	h2 {
+		font-size: 16px;
+	}
+
+	.slog {
+		font-size: 10px;
+	}
+
+	.header-slog {
+		margin-top: 10px;
+	}
+
+}
+
+
+     /*---------------*/
 
 @media (max-width: 800px) {
 
