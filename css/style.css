@@ -1271,18 +1271,18 @@ p{
 		height: 203px;
 	}
 
- /*-----------------*/
+    /*-----------------*/
 
 	.prices-top {
 		margin-top: 100px;
 	}
 
- /*-----------------*/
+    /*-----------------*/
 
- .shedule-text,
- .shedule-bottom {
- 	margin-top: 20px;
- }
+    .shedule-text,
+    .shedule-bottom {
+ 		margin-top: 20px;
+    }
 
  	.k-v,
  	.k-l,
@@ -1295,13 +1295,13 @@ p{
  		width: 700px;
  	}
 
- /*-----------------*/
+ 	/*-----------------*/
 
 	 .styles {
 	 	margin-top: 30px;
 	 }
 
- /*-----------------*/
+ 	/*-----------------*/
 
 	 .footer,
 	 .contacts {
@@ -1524,7 +1524,7 @@ p{
 
 }
 
-	/*---------------*/
+/*---------------*/
 
 @media (max-width: 850px) {
 	.text {
@@ -1556,7 +1556,7 @@ p{
 }
 
 
-     /*---------------*/
+/*---------------*/
 
 @media (max-width: 800px) {
 
@@ -2147,42 +2147,41 @@ p{
 		height: auto;
 	}
 
- /*---------------*/
+/*---------------*/
 
- .prices-left,
- .prices-show,
- .prices-individual,
- .prices-training,
- .prices-right,
- .prices-competition,
- .prices-master {
- 	font-size: 10px;
- 	
- }
+.prices-left,
+.prices-show,
+.prices-individual,
+.prices-training,
+.prices-right,
+.prices-competition,
+.prices-master {
+font-size: 10px;
+}
 
- /*----------------*/
+/*----------------*/
 
- .town,
- .phone,
- .mail {
+.town,
+.phone,
+.mail {
 
- 	font-size: 12px;
- }
+font-size: 12px;
+}
 
- .left-women {
- 	width: 132px;
- 	height: auto;
- }
+.left-women {
+width: 132px;
+height: auto;
+}
 
- .centr-women {
- 	width: 140px;
- 	height: auto;
- }
+.centr-women {
+width: 140px;
+height: auto;
+}
 
- .right-women {
- 	width: 180px;
- 	height: auto;
- }
+.right-women {
+width: 180px;
+height: auto;
+}
 
 }
 
@@ -2255,15 +2254,15 @@ p{
 	}
 
 	.header-slog {
-		font-size: 12px;
+		font-size: 14px;
 	}
 
 	.header-slog {
 		margin-top: 10px;
 	}
 
-	/*-----------------*/
-	
+	/*----------------*/
+
 	.trainer-foto {
 		width: 65px;
 	}
@@ -2279,12 +2278,12 @@ p{
 	.job {
 		font-size: 8px;
 	}
-	
+
 	.top-left,
 	.top-riht {
 		margin-top: 8px;
 	}
-	
+
 	/*---------------*/
 
 	.comfortable-hall {
@@ -2293,13 +2292,13 @@ p{
 
 	.studio-description,
 	.sessions-individual {
-		font-size: 10px;
+		font-size: 8px;
 	}
 
 	.individual-sessions {
 		width: 245px;
 	}
-	
+
 	/*----------------*/
 
 	.s {
@@ -2330,63 +2329,61 @@ p{
 		margin-right: 10px;
 	}
 
-	
 	/*------------*/
-	
-	.foto-dens {
-		width: 150px;
-		height: 79px;
-	}
+		.foto-dens {
+			width: 150px;
+			height: 79px;
+		}
 
-	.descr {
-		width: 150px;
-		height: 79px;
-		padding-top: 12px;
-		text-align: center;
-		font-size: 8px;
-		line-height: 10px;
-		font-weight: 600;
-	}
+		.descr {
+			width: 150px;
+			height: 79px;
+			padding-top: 12px;
+			text-align: center;
+			font-size: 8px;
+			line-height: 10px;
+			font-weight: 600;
+		}
 
-	.club,
-	.break,
-	.crump,
-	.rnb,
-	.straight,
-	.ballroom,
-	.house,
-	.step {
-		margin-right: 10px;
-	}
+		.club,
+		.break,
+		.crump,
+		.rnb,
+		.straight,
+		.ballroom,
+		.house,
+		.step {
+			margin-right: 10px;
+		}
 
-	.name-dens {
-		font-size: 10px;
-		margin-bottom: 10px;
-	}
+		.name-dens {
+			font-size: 10px;
+			margin-bottom: 10px;
+		}
 
-   /*---------------*/
+		/*---------------*/
 
-	.town,
-	.phone,
-	.mail {
+		.town,
+		.phone,
+		.mail {
 
-		font-size: 10px;
-	}
+			font-size: 10px;
+		}
 
-	.left-women {
-		width: 92px;
-		height: auto;
-	}
+		.left-women {
+			width: 92px;
+			height: auto;
+		}
 
-	.centr-women {
-		width: 107px;
-		height: auto;
-	}
+		.centr-women {
+			width: 107px;
+			height: auto;
+		}
 
-	.right-women {
-		width: 153px;
-		height: auto;
-	}
+		.right-women {
+			width: 153px;
+			height: auto;
+		}
 
 }
 
@@ -2458,7 +2455,7 @@ p{
 	/*---------------*/
 
 	.training {
-		font-size: 12px;
+		font-size: 14px;
 	}
 
 	.tg {
@@ -2510,6 +2507,7 @@ p{
 	.name {
 		width: 172px;
 		height: auto;
+		/* height: 128px; */
 	}
 
 	.tagline {
@@ -2519,15 +2517,15 @@ p{
 	h2 {
 		font-size: 14px;
 	}
-	
+
 	.line {
 		width: 172px;
 	}
 
-	.siog {
+	.slog {
 		margin-top: 30px;
 	}
-	
+
 	.header-slog {
 		font-size: 10px;
 	}
