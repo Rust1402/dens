@@ -2150,41 +2150,41 @@ p{
 		height: auto;
 	}
 
-/*---------------*/
+	/*---------------*/
 
-.prices-left,
-.prices-show,
-.prices-individual,
-.prices-training,
-.prices-right,
-.prices-competition,
-.prices-master {
-font-size: 10px;
-}
+	.prices-left,
+	.prices-show,
+	.prices-individual,
+	.prices-training,
+	.prices-right,
+	.prices-competition,
+	.prices-master {
+	font-size: 10px;
+	}
 
-/*----------------*/
+	/*----------------*/
 
-.town,
-.phone,
-.mail {
+	.town,
+	.phone,
+	.mail {
 
-font-size: 12px;
-}
+	font-size: 12px;
+	}
 
-.left-women {
-width: 132px;
-height: auto;
-}
+	.left-women {
+	width: 132px;
+	height: auto;
+	}
 
-.centr-women {
-width: 140px;
-height: auto;
-}
+	.centr-women {
+	width: 140px;
+	height: auto;
+	}
 
-.right-women {
-width: 180px;
-height: auto;
-}
+	.right-women {
+	width: 180px;
+	height: auto;
+	}
 
 }
 
@@ -2344,7 +2344,7 @@ height: auto;
 			padding-top: 12px;
 			text-align: center;
 			font-size: 8px;
-			line-height: 10px;
+			line-height: 8px;
 			font-weight: 600;
 		}
 
