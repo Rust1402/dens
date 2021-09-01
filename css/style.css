@@ -1527,7 +1527,7 @@ p{
 
 }
 
-/*---------------*/
+	/*---------------*/
 
 @media (max-width: 850px) {
 	.text {
@@ -1559,7 +1559,7 @@ p{
 }
 
 
-/*---------------*/
+	/*---------------*/
 
 @media (max-width: 800px) {
 
@@ -1582,7 +1582,7 @@ p{
 }
 
 
-/*---------------*/
+	/*---------------*/
 
 /* @media (min-width: 768px) {
 	.menu__list {
@@ -1744,7 +1744,7 @@ p{
 		margin-top: 30px;
 	}
 
-/*-----------------*/
+	/*-----------------*/
 
 	.text {
 		display: flex;
@@ -1972,11 +1972,11 @@ p{
 		margin-left: 50px;
 	}
 
-  /*-----------------*/
+  	/*-----------------*/
 
-  .comfortable-hall,
-  .individual-sessions {
-	margin: 0px 0px 10px 0px;
+  	.comfortable-hall,
+  	.individual-sessions {
+		margin: 0px 0px 10px 0px;
   }
 
 	.studio-top,
@@ -2139,6 +2139,10 @@ p{
 		display: flex;
 		flex-direction: row;
 	} */
+	
+	.page__pagination {
+		top: 95%;
+	}
 
 	.photo-studio {
 		width: 385px;
