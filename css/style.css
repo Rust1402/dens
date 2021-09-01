@@ -1520,10 +1520,6 @@ p{
 		font-size: 14px;	
 	}
 	
-	.tg {
-		font-size: 10px;
-	}
-
 	.text-shedule {
 		font-size: 10px;
 		
@@ -2466,7 +2462,7 @@ p{
 	/*---------------*/
 
 	.training {
-		font-size: 14px;
+		font-size: 12px;
 	}
 
 	.tg {
